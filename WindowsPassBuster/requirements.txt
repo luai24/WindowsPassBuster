@@ -1,4 +1,2 @@
 pyftpdlib
-threading
 ttkbootstrap
-tkinter

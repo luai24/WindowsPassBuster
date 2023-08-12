@@ -156,7 +156,7 @@ def clear_text(path):
 
 
 
-app = ttk.Window("File Search Engine", "journal")
+app = ttk.Window("WindowsPassBuster", "journal")
 style = ttk.Style("pulse")
 
 frame=ttk.LabelFrame(text="FTP Server")
