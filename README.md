@@ -1,5 +1,6 @@
 # WindowsPassBuster
-WindowsPassBuster is an automated tool that allows you to generate a payload that gathers hashed passwords inside windows.
+<p>WindowsPassBuster is an automated tool that allows you to generate a payload that gathers hashed passwords inside windows.
+</p>
 <img src="https://i.ibb.co/TMkCzZY/Logo.png">
 <h2>How to use:</h2>
 <ol>
