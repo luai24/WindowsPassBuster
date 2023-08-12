@@ -1,0 +1,4 @@
+pyftpdlib
+threading
+ttkbootstrap
+tkinter
