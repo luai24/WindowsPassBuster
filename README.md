@@ -5,10 +5,10 @@
 <h2>How to use:</h2>
 <ol>
   <li>
-    Install the requirements by using ```python pip install -r requirements.txt```
+    Install the requirements by using: python pip install -r requirements.txt
   </li>
   <li>
-    Run the python file by using ```python WindowsPassBuster.py```
+    Run the python file by using: python WindowsPassBuster.py
   </li>
 </ol>
   <h2>Operating System, and Requirements</h2>
